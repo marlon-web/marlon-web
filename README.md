@@ -8,10 +8,10 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 
-####*A única maneira de ir rápido, é ir bem.*
+#### *A única maneira de ir rápido, é ir bem.*
 
 
-###Reach me out 👇🏼
+### Reach me out 👇🏼
 [![Linkedin Badge](https://img.shields.io/badge/-Marlon%20Costa-0176FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-dev)](https://www.linkedin.com/in/marlon-dev)
 [![Gmail Badge](https://img.shields.io/badge/-marlonlCosta.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marlonlCosta.dev@gmail.com)](mailto:marlonlCosta.dev@gmail.com)
 
