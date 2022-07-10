@@ -1,11 +1,8 @@
 # Hey 👋
 
-My name is Marlon Costa
+Olá, meu nome é Marlon.
 
-I'm a Web developer, that has been working as a Freelancer developer since 2019.  💻
-
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
+Desenvolvedor web desde 2018, apaixonado por solucionar problemas e aprender coisas novas, sempre disposto a enfretar novos desafios.  💻
 
 
 #### *A única maneira de ir rápido, é ir bem.*
