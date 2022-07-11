@@ -2,7 +2,7 @@
 
 Olá, meu nome é Marlon.
 
-Desenvolvedor web desde 2018, apaixonado por solucionar problemas e aprender coisas novas, sempre disposto a enfretar novos desafios.  💻
+Desenvolvedor web desde 2018, apaixonado por solucionar problemas e aprender coisas novas, sempre disposto a enfrentar novos desafios.  💻
 
 
 #### *A única maneira de ir rápido, é ir bem.*
